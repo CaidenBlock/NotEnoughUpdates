@@ -54,7 +54,7 @@ public class CrystalOverlay {
 	private enum CrystalType {
 		FARMING_MINION(8, 0xDAA520),
 		MINING_MINION(40, 0x6e5a49),
-		FORAGING_MINION(12, 0x01a552),
+		FORAGING_MINION(8, 0x01a552),
 		DESERT(16, 0xfff178),
 		FISHING(15, 0x1972a6),
 		WART(5, 0x821530),
